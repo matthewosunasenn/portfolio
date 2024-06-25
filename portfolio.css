@@ -1,0 +1,17 @@
+.garbage {
+  display: flex;
+  justify-content:space-evenly;
+}
+
+.yella {
+  background-color: #F6FDC3;
+}
+
+.profile-img {
+    border-radius: 50%;
+  }
+
+.containerthang img {
+  height: 90%;
+  width: 90%;
+}
